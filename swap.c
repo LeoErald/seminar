@@ -12,5 +12,5 @@ int main(void)
     printf("y is now %i\n", y);
 
     //print cool stuff
-    printf("hi bros");
+    printf("hi bros!");
 }
